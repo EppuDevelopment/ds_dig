@@ -1,6 +1,5 @@
-# DuckScripts Digging
-Simple and fun fivem digging!
-
+# Name have to be: ds_dig
+# DuckScripts DiggingSimple and fun fivem digging!
 # Features
 * Config File
 * Using Target
