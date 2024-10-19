@@ -31,11 +31,10 @@ DS.language = {
         ['bliplabel'] = 'Excavation area',
         ['notifyfailed'] = 'You Failed',
         ['notifyfaileddesc'] = 'You failed at digging!',
-
     },
 }
 
 DS.stashlabel = 'Ground' --- This is the second inventory label where you get your items like Ground,Dirt,sand
-DS.stashweight = '25000'
+DS.stashweight = '25000' ----- Inventorys Weight it could be like 9999999 just for items when given
 
 
